@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="150"/>
 </div>
 
-<div align="center">
+<div align="center" width="30">
   <img src="https://komarev.com/ghpvc/?username=it21110016&style=flat-square&color=blue" alt=""/>
 </div>
 
