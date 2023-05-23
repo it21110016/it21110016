@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="150"/>
 </div>
 
-<div align="center" margin="25px">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=it21110016&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -11,6 +11,10 @@
   hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+---
+
+### :man_technologist: About Me :
 
 <!--
 **it21110016/it21110016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
