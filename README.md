@@ -58,6 +58,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" **alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title="Vite" **alt="Vite" width="40" height="40"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **it21110016/it21110016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
