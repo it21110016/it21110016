@@ -66,6 +66,7 @@ Embracing the versatility of full stack development. <img src="https://media.gip
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title="Vite" **alt="Vite" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" **alt="Postman" width="150" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" title="Eclipse IDE" **alt="Eclipse IDE" width="80" height="80"/>
 </div>
 
 ---
