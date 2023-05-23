@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
-  <img src="header.png" height="250"/>
+  <img src="image2.jpg"/>
 </div>
 
-<div id="header" align="center">
+<div id="header1" align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="200"/>
 </div>
 
