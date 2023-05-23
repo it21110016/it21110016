@@ -1,5 +1,9 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
+  <img src="header.png" width="150"/>
+</div>
+
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="150"/>
 </div>
 
