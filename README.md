@@ -11,15 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=it21110016&style=flat-square&color=brightgreen" alt=""/>
 </div>
 
-<div id="header2" align="center">
-  <img src="header.png"/>
-</div>
-
 <h1 align="center">
   hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div id="header2" align="center">
+  <img src="header.png"/>
+</div>
 
 ### :man_technologist: About Me :
 
