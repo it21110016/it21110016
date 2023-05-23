@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21110016&show_icons=true&theme=gotham)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it21110016&theme=gotham&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it21110016&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it21110016&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
