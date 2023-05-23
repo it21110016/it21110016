@@ -58,6 +58,7 @@ Embracing the versatility of full stack development. <img src="https://media.gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" **alt="Express.js" width="80" height="80"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" **alt="C++" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons//nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="80" height="80"/>
