@@ -23,8 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: www.pasindukushan11@gmail.com
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sathira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathirakushan/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
