@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: (www.pasindukushan11@gmail.com)
+- :mailbox:How to reach me: www.pasindukushan11@gmail.com
 <!--
 **it21110016/it21110016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
