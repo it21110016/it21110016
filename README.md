@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
-  <img src="header.png" width="1000" height="400"/>
+  <img src="header.png" width="1500" height="400"/>
 </div>
 
 <div id="header" align="center">
