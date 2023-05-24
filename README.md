@@ -1,4 +1,3 @@
-<!-- ### Hi there 👋 -->
 <div id="banner" align="center">
   <img src="banner.png"/>
 </div>
