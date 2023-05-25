@@ -78,7 +78,7 @@ Embracing the versatility of full stack development. <img src="https://media.gip
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it21110016&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it21110016&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it21110016&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **it21110016/it21110016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
